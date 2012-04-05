@@ -1,0 +1,1 @@
+Java Scriptでwindowsd上で動くカレンダーウィジェットを作る。
